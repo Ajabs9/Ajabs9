@@ -5,7 +5,7 @@
 - 🌱 I'm currently learning Typescript and Nextjs.
 - 👯 I'm looking to collaborate on projects which aim at solving existing problems.
 - 🤔 I’m looking for help with progressing in the software development industry.
-- 💬 I enjoy solving programming problems so any questions on front-end development can be brought to me and I do my best to solve it.
+- 💬 I enjoy solving programming problems so any questions on front-end development can be brought to me and I'll do my best to solve it.
 - 📫 You can contact me at jacobhonour250@gmail.com
 - ⚡ Fun fact: when facing a tricky problem, I find that pausing and relaxing provides clarity and a different angle. This often helps, though that doesn't mean the problem will solved instantaneously 😄
 
